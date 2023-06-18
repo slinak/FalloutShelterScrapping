@@ -19,9 +19,9 @@ Scrap Per Qty |  1.65  | 118.22 |    668.37
 
 So, to summarize the numbers directly:
 
-*  Scrapping and selling Common items yields roughly **85% fewer** caps
-*  Scrapping and selling Rare items yields roughly **18% more** caps
-*  Scrapping and selling Legendary items yields roughly **33% more** caps  
+*  Scrapping and selling **Common** items yields roughly **85% fewer** caps
+*  Scrapping and selling **Rare** items yields roughly **18% more** caps
+*  Scrapping and selling **Legendary** items yields roughly **33% more** caps  
 
 The raw data can be found [here.](https://docs.google.com/spreadsheets/d/1kCjifk55Zt_LaNTsBXZDLmYPRKvxi2muEZGT6qfxWXA/edit?usp=sharing)
 
